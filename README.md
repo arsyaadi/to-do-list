@@ -9,15 +9,11 @@
  
  <h4>Source</h4>
     <ul>
+     <li> Font Using:</li>
         <ul>
-            <li>
-                Font Using:
+            <li><a href='https://fonts.google.com/specimen/Fredoka+One' target='_blank'>Fredoka One</a>
             </li>
-            <li>
-                <a href='https://fonts.google.com/specimen/Fredoka+One' target='_blank'>Fredoka One</a>
-            </li>
-            <li>
-                <a href='https://fonts.google.com/specimen/Inter' target='_blank'>Inter</a>
+            <li><a href='https://fonts.google.com/specimen/Inter' target='_blank'>Inter</a>
             </li>
         </ul>
       <li>icon : <a href='https://fontawesome.com/'>Font Awesome</a></li>
