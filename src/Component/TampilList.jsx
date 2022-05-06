@@ -13,6 +13,7 @@ export default function TampilList({value, handleChecked,handleRemove}) {
                     style={{
                            textDecorationLine: e.isStatus ? "line-through" : "",
                            textDecorationThickness : e.isStatus ? "3px" : "",
+                           fontStyle : e.isStatus ? "italic" : "",
                        }}>{e.todoItem}</span>
                     <button className='float-right mx-2 text-red-500 text-lg' onClick={() => {handleRemove(e.id)}}>X</button>
                     <button className='float-right mx-2 text-xl' name='isStatus' onClick={() => {handleChecked(e)}}>✓</button>
